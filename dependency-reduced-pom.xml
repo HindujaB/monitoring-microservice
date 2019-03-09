@@ -4,7 +4,7 @@
   <groupId>org.wso2</groupId>
   <artifactId>monitoring-microservice</artifactId>
   <name>monitoring-microservice</name>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <url>http://maven.apache.org</url>
   <build>
     <plugins>

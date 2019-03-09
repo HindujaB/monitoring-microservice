@@ -3,7 +3,9 @@ logging:
 server:
   applicationConnectors:
   - type: http
+    bindHost: localhost
     port: 8080
   adminConnectors:
   - type: http
+    bindHost: localhost
     port: 8081
