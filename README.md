@@ -13,5 +13,5 @@ A sample microservice which returns random numbers to represent the power consum
 * To run the application, please give the following command in the terminal
 ```
   mvn clean package
-  java -jar target/monitoring-microservice-1.0-SNAPSHOT.jar server src/main/resources/server-config.yml
+  java -jar target/monitoring-microservice-1.0.jar server src/main/resources/server-config.yml
 ```
